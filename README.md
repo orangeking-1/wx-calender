@@ -2,7 +2,7 @@
 小程序日历，已经封装成组件，显示今天起的统一价格日历，已组件形式导入进去
 
 ## 效果图
-!(日历图片)[https://github.com/orangekingliness/image-folder/blob/master/wx-canlendar/wx-calendar.png]
+![日历图片](https://github.com/orangekingliness/image-folder/blob/master/wx-canlendar/wx-calendar.png)
 
 ## 使用方法
 json中引入
